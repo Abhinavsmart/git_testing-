@@ -1,1 +1,1 @@
-this is my first txt document on git learning
+this is my first txt document on git learning i am not far near to git.
